@@ -1,14 +1,14 @@
-title:              Clean Blog
+title:              owoxo.lab
 email:              govodliu@gmail.com
-description:        A Blog Theme by Start Bootstrap
-author:             Start Bootstrap
-baseurl:            "https://wo-x.github.io/"
+description:        A creative tech lab
+author:             Wangxin Liu
+baseurl:            ""
 url:                "https://wo-x.github.io"
 
 # Social Profiles
-twitter_username:   SBootstrap
-github_username:    StartBootstrap
-facebook_username:  StartBootstrap
+twitter_username:   
+github_username:    
+facebook_username:  
 instagram_username:  
 linkedin_username:
 
