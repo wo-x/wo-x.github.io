@@ -1,14 +1,16 @@
 ---
 layout: post
-title: "My First Post"
-date: 2024-01-01 12:00:00 +0000
-categories: [blog, introduction]
-tags: [jekyll, markdown]
+title: "Your Title Here"
+date: YYYY-MM-DD HH:MM:SS +0000
+categories: [category1, category2]
+tags: [tag1, tag2]
 ---
-# Hello, World!
+# Your Title Here
 
-This is my **first post** written in Markdown. Isn't it *easy*?
+Write your content here. You can use:
 
-- Markdown is simple.
-- Jekyll processes it into HTML automatically.
-- No need to touch HTML unless you want to customize it.
+- **Bold text**
+- *Italic text*
+- [Links](https://example.com)
+- Images:
+  ![Alt Text](https://via.placeholder.com/150)
